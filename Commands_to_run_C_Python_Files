@@ -1,0 +1,9 @@
+Commands to run C
+-----------------------
+gcc filename.c -o filename
+./filename
+_________________________________________________________________________________________
+
+Commands to run Python files in linux
+-----------------------------------------
+python3 filename.py
