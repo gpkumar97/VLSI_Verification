@@ -1,0 +1,10 @@
+List of Verification Components that construct the Verification Environment
+------------------------------------------------------------------------------------
+1. Transaction Class
+2. Generator Class
+3. Driver Class
+4. Monitor Class
+5. Scoreboard Class
+6. Environment Class
+7. TestBench Class
+8. Top Module
